@@ -38,8 +38,6 @@
         <h2 align="left">⚡Activity Graph:</h2>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=react-dark"/>
         <img src="https://raw.githubusercontent.com/S4nchzz/S4nchzz/output/snake.svg" alt="Snake animation" />
-
-###
     </div>
 </body>
 </html>
