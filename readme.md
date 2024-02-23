@@ -24,7 +24,6 @@
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
         </p>
         <h3 align="left">Stars</h3>
-        <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nchzz&hide_progress=true&theme=dark" alt="S4nchzz" />
         <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=S4nchzz&show_icons=true&locale=en&theme=dark" alt="S4nchzz" /></p>
         <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4nchzz&theme=dark" alt="S4nchzz" /></p>
         <h2 align="left">⚡Activity Graph:</h2>
