@@ -24,7 +24,7 @@
         </p>
        🎧 Spotify Playing
 
-[![Spotify](https://spotify-now-playing-2.vercel.app/api/spotify)](https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no)
+[![Spotify](https://spotify-now-playing-2-woad.vercel.app/api/spotify)](https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no)
 [<img src="https://spotify-now-playing-2-n0giou5kr-s4nchzzs-projects.vercel.app/api/spotify" alt="Spotify github" width="350" />]()
 [<img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify" alt="Spotify github" width="350" />]()
         <h2 align="left">⚡Activity Graph:</h2>
