@@ -24,7 +24,7 @@
         </p>
        🎧 Spotify Playing
         <br>
-<img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=#0D1117&border_color=fffff" alt="Spotify github" width="350" />
+        <img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=0D1117&border_color=fffff" alt="Spotify github" width="350" />
         <h2 align="left">⚡Activity Graph:</h2>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=react-dark"/>
     </div>
