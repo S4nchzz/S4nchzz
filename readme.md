@@ -22,7 +22,7 @@
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
         </p>
-       [![Spotify](https://s4nchzz.vercel.app/api/spotify)](https://open.spotify.com/user/S4nchzz)
+       [![Spotify](https://vercel.com/s4nchzzs-projects/novatorem)](https://open.spotify.com/user/S4nchzz)
         <h2 align="left">⚡Activity Graph:</h2>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=react-dark"/>
     </div>
