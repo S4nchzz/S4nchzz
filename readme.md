@@ -5,7 +5,6 @@
 
 <body>
     <div class="container">
-        <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
         <h1 align="center">Hi 👋, I'm Iyan</h1>
         <h3 align="center">𝓜𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h3>
         <ul>
@@ -25,7 +24,6 @@
         </p>
         <h3 align="left">Stars</h3>
         <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=S4nchzz&show_icons=true&locale=en&theme=dark" alt="S4nchzz" /></p>
-        <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4nchzz&theme=dark" alt="S4nchzz" /></p>
         <h2 align="left">⚡Activity Graph:</h2>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=react-dark"/>
     </div>
