@@ -24,7 +24,7 @@
         </p>
        🎧 Spotify Playing
 
-[![Spotify](https://vercel.com/s4nchzzs-projects/spotify-now-playing-2/C4yqBEt5CC59ypXUzJfe7KcwEaTi/api/spotify)](https://open.spotify.com/user/S4nchzz)
+[![Spotify](https://vercel.com/s4nchzzs-projects/spotify-now-playing-2/C4yqBEt5CC59ypXUzJfe7KcwEaTi/api/spotify)](https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no)
         <h2 align="left">⚡Activity Graph:</h2>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=react-dark"/>
     </div>
