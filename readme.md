@@ -10,7 +10,7 @@
         <ul>
             <li>🔭 I’m currently studying on <strong>Software Development (FP)</strong></li>
             <li>🌱 I’m currently learning <strong>Java, SQL, HTML, CSS</strong></li>
-            <li>📫 How to reach me: <a href="mailto:not@contact.es">not@contact.es</a></li>
+            <li>📫 How to reach me: <a href="mailto:iyannsanchezzdc4@gmail.com">iyannsanchezzdc4@gmail.com</a></li>
         </ul>
         <h3 align="left">Languages and Tools:</h3>
         <p align="left">
