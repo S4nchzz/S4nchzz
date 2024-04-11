@@ -23,12 +23,12 @@
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
         </p>
-       🎧 Spotify Playing
-        <br><br>
+       <h3 align="left">𝓢𝓹𝓸𝓽𝓲𝓯𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰:</h3> 
         <a src="https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no"><img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify github" width="350" /></a>
-        <h2 align="left">𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 𝓖𝓻𝓪𝓹𝓱:</h2>
+        <h3 align="left">𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂:</h3>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=github-compact&area=true"/>
         <br>
     </div>
+    <img src="https://raw.githubusercontent.com/S4nchzz/S4nchzz/output/snake.svg" alt="Snake animation" />
 </body>
 </html>
