@@ -7,7 +7,7 @@
     <div class="container">
         <h1 align="left">Hi 👋, I'm Iyan and Welcome to</h1>
         <h3 align="left">𝓜𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h3>
-        <img align="right" height="150" src="https://i.imgur.com/CjXR6cX.png"  />
+        <img align="right" height="150" src="https://i.imgur.com/CjXR6cX.png"/>
         <ul>
             <li>🔭 I’m currently studying on <strong>Software Development (FP)</strong></li>
             <li>🌱 I’m currently learning <strong>Java, SQL, HTML, CSS</strong></li>
@@ -29,6 +29,5 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=github-compact&area=true"/>
         <br>
     </div>
-    <img src="https://raw.githubusercontent.com/S4nchzz/S4nchzz/output/snake.svg" alt="Snake animation" />
 </body>
 </html>
