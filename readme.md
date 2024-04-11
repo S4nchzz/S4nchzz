@@ -7,7 +7,6 @@
     <div class="container">
         <h1 align="left">Hi 👋, I'm Iyan and Welcome to</h1>
         <h3 align="left">𝓜𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h3>
-        <img align="right" height="150" src="https://i.imgur.com/CjXR6cX.png"/>
         <ul>
             <li>🔭 I’m currently studying on <strong>Software Development (FP)</strong></li>
             <li>🌱 I’m currently learning <strong>Java, SQL, HTML, CSS</strong></li>
@@ -26,7 +25,7 @@
        <h3 align="left">𝓢𝓹𝓸𝓽𝓲𝓯𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰:</h3> 
         <a src="https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no"><img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify github" width="350" /></a>
         <h3 align="left">𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂:</h3>
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=github-compact&area=true"/>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=modern-lilac&area=true"/>
         <br>
     </div>
 </body>
