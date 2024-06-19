@@ -9,7 +9,7 @@
         <h3 align="left">𝓜𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h3>
         <ul>
             <li>🔭 I’m currently studying on <strong>Software Development (FP)</strong></li>
-            <li>🌱 I’m currently learning <strong>Java, SQL, HTML, CSS</strong></li>
+            <li>🌱 I’m currently learning <strong>Java, SQL, SpringBoot</strong></li>
             <li>📫 How to reach me: <a href="mailto:iyannsanchezzdc4@gmail.com">iyannsanchezzdc4@gmail.com</a></li>
         </ul>
         <h3 align="left">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h3>
