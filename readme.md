@@ -20,7 +20,7 @@
                 <ul>
                     <li>Programming Languages: Java</li>
                     <li>Database: MariDB, MySQL</li>
-                    <li>Web Development: HTML, CSS<</li>
+                    <li>Web Development: HTML, CSS</li>
                     <li>Data Exchange: JSON, XML</li>
                 </ul>
             </li>
