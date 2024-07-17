@@ -15,7 +15,7 @@
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
                     <li>Programming Languages: Java</li>
-                    <li>Database: MariDB, MySQL</li>
+                    <li>Database: MariaDB, MySQL</li>
                     <li>Web Development: HTML, CSS</li>
                     <li>Build Tools: Maven</li>
                     <li>Data Exchange: JSON, XML</li>
@@ -23,7 +23,7 @@
             </li>
             <li>🛠️ 𝐈𝐃𝐄𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 
                 <ul>
-                    <li>IDEs:Visual Studio Code, Android Studio</li>
+                    <li>IDEs: Visual Studio Code, Android Studio, IntelliJ</li>
                     <li>Desktop App Design: Scene Builder and FrameWork JavaFX</li>
                     <li>Version Control tools: Git -> Github </li>
                     <li>Operative Systems: Windows, Linux</li>
@@ -42,7 +42,7 @@
                 <ul>
                     <li>
                         <p>
-                            I am passionate about programming and learning new technologies. I enjoy working in teams and consider myself organized, professional, and driven to complete well-structured projects. I strive to stay updated with the latest technological                                 trends and apply best practices in software development. I like to get involved in projects that challenge me to think critically and find innovative solutions. Additionally, I value the importance of collaboration and knowledge sharing, as I                             firmly believe that teamwork leads to superior results.
+                            I am passionate about programming and learning new technologies. I enjoy working in teams and consider myself organized, professional and driven to complete well-structured projects. I strive to stay updated with the latest technological                                 trends and apply best practices in software development. I like to get involved in projects that challenge me to think critically and find innovative solutions. Additionally, I value the importance of collaboration and knowledge sharing, as I                             firmly believe that teamwork leads to superior results.
                         </p>
                     </li>
                 </ul> 
