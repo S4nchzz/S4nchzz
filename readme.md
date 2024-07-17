@@ -1,42 +1,75 @@
 <html>
-<head>
-    
-</head>
-
+<head></head>
 <body>
     <div class="container">
-        <h1 align="left">Hi 👋, I'm Iyan and Welcome to</h1>
-        <h3 align="left">𝓜𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h3>
+        <h1 align="left">𝙃𝙞 👋, 𝙄'𝙢 𝙄𝙮𝙖𝙣 𝙖𝙣𝙙 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚</h1>
+        🔭 Currently, I'm pursuing Software Development (FP) with a strong focus on learning and expanding my skills in various technologies.
+        <h2>⚙️ 𝘔𝘺 𝘚𝘬𝘪𝘭𝘭𝘴 𝘢𝘯𝘥 𝘉𝘢𝘤𝘬𝘨𝘳𝘰𝘶𝘯𝘥</h2>
         <ul>
-            <li>🔭 I’m currently studying Software Development (FP). I'm passionate about technology and always looking for new challenges that allow me to learn and grow professionally.</li>
-            <hr>
-            <li>📚 Education: 
+            <li>📚 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧: 
                 <ul>
                     <li>Technician in Microcomputer Systems and Networks (SMR) - 2021-2022</li>
                     <li>Multiplatform Application Development (DAM) - 2023-2024</li>
                 </ul>
             </li>
-            <li>📚 Technologies I Use: 
+            <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
                     <li>Programming Languages: Java</li>
                     <li>Database: MariDB, MySQL</li>
                     <li>Web Development: HTML, CSS</li>
+                    <li>Build Tools: Maven</li>
                     <li>Data Exchange: JSON, XML</li>
                 </ul>
             </li>
-            <li>🛠️ IDEs and Tools: 
+            <li>🛠️ 𝐈𝐃𝐄𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 
                 <ul>
                     <li>IDEs:Visual Studio Code, Android Studio</li>
                     <li>Desktop App Design: Scene Builder and FrameWork JavaFX</li>
                     <li>Version Control tools: Git -> Github </li>
+                    <li>Operative Systems: Windows, Linux</li>
                     <li>Database Management & Port usage: HeidiSQL, XAMP</li>
                 </ul>
             </li>
-            <hr>
-            <p>🌟 About Me
-                I am passionate about programming and learning new technologies. I enjoy working in teams and consider myself organized, professional, and driven to complete well-structured projects. I strive to stay updated with the latest technological trends and                     apply best practices in software development. I like to get involved in projects that challenge me to think critically and find innovative solutions. Additionally, I value the importance of collaboration and knowledge sharing, as I firmly believe that                    teamwork leads to superior results.</p>
+            <li>🚀 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
+                 <ul>
+                     <li><strong>[Nozama]</strong> A simple e-shop commerce with user management (Not finished) | Technologies used: Java, SQL, JavaFX, SceneBuilder</li>
+                     <li><strong>[To-Do Today | Desktop App & Api]</strong> To Do list management with users teams and a entire UI that provides a lot of features(Not finished) | Technologies used: Java, SQL, JavaFX, SceneBuilder, SpringBoot, Maven</li>
+                </ul>
+            </li>  
         </ul>
-        <h3 align="left">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h3>
+        <hr>
+            🌟𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+                <ul>
+                    <li>
+                        <p>
+                            I am passionate about programming and learning new technologies. I enjoy working in teams and consider myself organized, professional, and driven to complete well-structured projects. I strive to stay updated with the latest technological                                 trends and apply best practices in software development. I like to get involved in projects that challenge me to think critically and find innovative solutions. Additionally, I value the importance of collaboration and knowledge sharing, as I                             firmly believe that teamwork leads to superior results.
+                        </p>
+                    </li>
+                </ul> 
+        <hr>
+        <div>
+            <p>🗒️ Visit <a href="#">My Portfolio</a> (Not available)</p>
+            <ul>
+                <li>My portfolio is currently under construction, but I'm actively working on exciting projects to showcase my skills and experience. In the meantime, feel free to connect with me through my Discord: <strong>s4nchzz</strong></li>
+            </ul>
+        </div>
+        <div>
+            <p>📌 Current Endeavors: </p>
+            <ul>
+                <li><strong>Personal Projects</strong>: Working on personal projects to apply and enhance my skills in Java, SpringBoot, and web development.</li>
+                <li><strong>Studies</strong>: Currently enrolled in courses covering advanced Java programming, SQL optimization, and SpringBoot development.</li>
+                <li><strong>Learning</strong>: Currently learning Kotlin for Android app development, using Android Studio, and building RESTful APIs.</li>
+            </ul>
+        </div> 
+        <div>
+            <p>🌐 Connect with Me: </p>
+            <ul>
+                <li><a href="#">LinkedIn</a></li>
+                <li><a href="https://github.com/S4nchzz">GitHub</a></li>
+                <li><a href="#">Email</a></li>
+            </ul>
+        </div> 
+        <h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :</h3>
         <p align="left">
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -45,9 +78,9 @@
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
         </p>
-       <h3 align="left">𝓢𝓹𝓸𝓽𝓲𝓯𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰 :</h3> 
+       <h3 align="left">𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 :</h3> 
         <a src="https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no"><img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify github" width="350" /></a>
-        <h3 align="left">𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 :</h3>
+        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 :</h3>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=high-contrast&area=true"/>
         <br>
     </div>
