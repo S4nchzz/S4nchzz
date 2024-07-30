@@ -8,8 +8,8 @@
         <ul>
             <li>📚 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧: 
                 <ul>
-                    <li>Technician in Microcomputer Systems and Networks (SMR) - 2021-2022</li>
-                    <li>Multiplatform Application Development (DAM) - 2023-2024</li>
+                    <li>Technician in Microcomputer Systems and Networks (SMR) - 2021-2022 / 2022-2023</li>
+                    <li>Multiplatform Application Development (DAM) - 2023-2024 / 2024-2025</li>
                 </ul>
             </li>
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
