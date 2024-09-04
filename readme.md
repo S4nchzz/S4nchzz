@@ -64,7 +64,7 @@
         <div>
             <p>🌐 Connect with Me: </p>
             <ul>
-                <li><a href="#">LinkedIn</a></li>
+                <li><a href="https://www.linkedin.com/in/iyan-sanchez-da-costa-134938250/">LinkedIn</a></li>
                 <li><a href="https://github.com/S4nchzz">GitHub</a></li>
                 <li><a href="#">Email</a></li>
             </ul>
