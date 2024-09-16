@@ -78,11 +78,6 @@
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
         </p>
-       <h3 align="left">𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 :</h3> 
-        <a src="https://open.spotify.com/user/wl164cwvenatdwyw28fmhm2no"><img src="https://spotify-now-playing-kappa-one.vercel.app/api/spotify/?background_color=0D1117&border_color=ffffff" alt="Spotify github" width="350" /></a>
-        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 :</h3>
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=high-contrast&area=true"/>
-        <br>
     </div>
 </body>
 </html>
