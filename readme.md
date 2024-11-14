@@ -14,7 +14,7 @@
             </li>
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
-                    <li>Programming Languages: Java</li>
+                    <li>Programming Languages: Java, Kotlin, Javascript(React)</li>
                     <li>Database: MariaDB, MySQL</li>
                     <li>Web Development: HTML, CSS</li>
                     <li>Build Tools: Maven</li>
