@@ -14,20 +14,21 @@
             </li>
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
-                    <li>Programming Languages: Java, Kotlin, Javascript(React)</li>
+                    <li>Programming Languages: Java, Kotlin, Javascript, React</li>
                     <li>Database: MariaDB, MySQL</li>
-                    <li>Web Development: HTML, CSS</li>
-                    <li>Build Tools: Maven</li>
+                    <li>Web Development: HTML, CSS, React</li>
+                    <li>Build Tools: Maven, Gradle</li>
                     <li>Data Exchange: JSON, XML</li>
                 </ul>
             </li>
             <li>🛠️ 𝐈𝐃𝐄𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 
                 <ul>
                     <li>IDEs: Visual Studio Code, Android Studio, IntelliJ</li>
-                    <li>Desktop App Design: Scene Builder and FrameWork JavaFX</li>
-                    <li>Version Control tools: Git -> Github </li>
+                    <li>Desktop App Design: Scene Builder/FrameWork JavaFX</li>
+                    <li>Version Control tools: Git -> Github</li>
                     <li>Operative Systems: Windows, Linux</li>
-                    <li>Database Management & Port usage: HeidiSQL, XAMP</li>
+                    <li>Database Management & Port usage: HeidiSQL, Laragon/XAMP</li>
+                    <li>Container Structure Management: Docker</li>
                 </ul>
             </li>
             <li>🚀 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
