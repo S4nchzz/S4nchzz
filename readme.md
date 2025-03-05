@@ -71,6 +71,9 @@
                 <li><a href="#">Email</a></li>
             </ul>
         </div> 
+        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 :</h3>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=high-contrast&area=true"/>
+        <br>
     </div>
 </body>
 </html>
