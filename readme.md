@@ -58,20 +58,19 @@
         <div>
             <p>📌 Current Endeavors: </p>
             <ul>
-                <li><strong>Personal Projects</strong>: Working on personal projects to apply and enhance my skills in Java, SpringBoot, and web development.</li>
-                <li><strong>Studies</strong>: Currently enrolled in courses covering advanced Java programming, SQL optimization, and SpringBoot development.</li>
-                <li><strong>Learning</strong>: Currently learning Kotlin for Android app development, using Android Studio, and building RESTful APIs.</li>
+                <li><strong>Personal Projects</strong>: Working on personal projects to apply and enhance my skills in Java, SpringBoot, React and mobile development.</li>
+                <li><strong>Studies</strong>: Currently enrolled in courses covering advanced Java programming, SQL optimization, SpringBoot APIs and android development.</li>
+                <li><strong>Learning</strong>: Currently learning Kotlin for Android app development, using Android Studio, building RESTful APIs and new architectures and libraries.</li>
             </ul>
         </div> 
         <div>
             <p>🌐 Connect with Me: </p>
             <ul>
                 <li><a href="https://www.linkedin.com/in/iyan-sanchez-da-costa-134938250/">LinkedIn</a></li>
-                <li><a href="https://github.com/S4nchzz">GitHub</a></li>
                 <li><a href="#">Email</a></li>
             </ul>
         </div> 
-        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 :</h3>
+        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲: </h3>
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=high-contrast&area=true"/>
         <br>
     </div>
