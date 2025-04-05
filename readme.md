@@ -67,12 +67,9 @@
             <p>🌐 Connect with Me: </p>
             <ul>
                 <li><a href="https://www.linkedin.com/in/iyan-sanchez-da-costa-134938250/">LinkedIn</a></li>
-                <li><a href="#">Email</a></li>
             </ul>
         </div> 
-        <h3 align="left">𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲: </h3>
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S4nchzz&theme=high-contrast&area=true"/>
-        <br>
+        <hr>
     </div>
 </body>
 </html>
