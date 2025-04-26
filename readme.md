@@ -67,6 +67,7 @@
             <p>🌐 Connect with Me: </p>
             <ul>
                 <li><a href="https://www.linkedin.com/in/iyan-sanchez-da-costa-134938250/">LinkedIn</a></li>
+                <li><a href="mailto:s4nchzzcontact@gmail.com">Email</a></li>
             </ul>
         </div> 
         <hr>
