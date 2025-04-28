@@ -15,7 +15,8 @@
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
                     <li>Programming Languages: Java, Kotlin, Javascript, Typescript</li>
-                    <li>Database: MariaDB, MySQL</li>
+                    <li>Frameworks: SpringBoot, JavaFX, NestJS, NextJS </li>
+                    <li>Database: MariaDB, MySQL, PostreSQL, MongoDB</li>
                     <li>Web Development: HTML, CSS, React</li>
                     <li>Build Tools: Maven, Gradle</li>
                     <li>Data Exchange: JSON, XML</li>
