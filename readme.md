@@ -14,10 +14,10 @@
             </li>
             <li>💼 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐔𝐬𝐞: 
                 <ul>
-                    <li>Programming Languages: Java, Kotlin, Javascript, Typescript</li>
+                    <li>Programming Languages: Java, Kotlin, PHP, Javascript, Typescript</li>
                     <li>Frameworks: SpringBoot, JavaFX, NestJS, NextJS </li>
                     <li>Database: MariaDB, MySQL, PostreSQL, MongoDB</li>
-                    <li>Web Development: HTML, CSS, React</li>
+                    <li>Web Development: HTML, CSS, Javascript, React, NestJS, NextJS</li>
                     <li>Build Tools: Maven, Gradle</li>
                     <li>Data Exchange: JSON, XML</li>
                 </ul>
@@ -25,11 +25,11 @@
             <li>🛠️ 𝐈𝐃𝐄𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 
                 <ul>
                     <li>IDEs: Visual Studio Code, Android Studio, IntelliJ</li>
-                    <li>Desktop App Design: Scene Builder/FrameWork JavaFX</li>
-                    <li>Version Control tools: Git -> Github</li>
+                    <li>Desktop App Design: Scene Builder/FrameWork JavaFX, Figma</li>
+                    <li>Version Control tools: Git -> Github, Git -> Gitlab</li>
                     <li>Operative Systems: Windows, Linux</li>
                     <li>Database Management & Port usage: HeidiSQL, Laragon/XAMP</li>
-                    <li>Container Structure Management: Docker</li>
+                    <li>Container Structure Management: Docker, Docker compose</li>
                 </ul>
             </li>
             <li>🚀 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
@@ -62,7 +62,7 @@
             <ul>
                 <li><strong>Personal Projects</strong>: Working on personal projects to apply and enhance my skills in Java, SpringBoot, React and mobile development.</li>
                 <li><strong>Studies</strong>: Currently enrolled in courses covering advanced Java programming, SQL optimization, SpringBoot APIs and android development.</li>
-                <li><strong>Learning</strong>: Currently learning Kotlin for Android app development, using Android Studio, building RESTful APIs and new architectures and libraries.</li>
+                <li><strong>Learning</strong>: Currently learning good practices on front and back development using typescript and frameworks like NestJS and NextJS</li>
             </ul>
         </div> 
         <div>
