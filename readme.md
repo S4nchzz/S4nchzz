@@ -17,7 +17,7 @@
                     <li>Programming Languages: Java, Kotlin, PHP, Javascript, Typescript</li>
                     <li>Frameworks: SpringBoot, JavaFX, NestJS, NextJS </li>
                     <li>Database: MariaDB, MySQL, PostreSQL, MongoDB</li>
-                    <li>Web Development: HTML, CSS, Javascript, React, NestJS, NextJS</li>
+                    <li>Web Development: HTML, CSS, Javascript, React, NestJS, NextJS, Framer motion, GSAP</li>
                     <li>Build Tools: Maven, Gradle</li>
                     <li>Data Exchange: JSON, XML</li>
                 </ul>
@@ -37,7 +37,7 @@
                      <li><strong>[Nozama]</strong> A simple e-shop commerce with user management (Not finished) | Technologies used: Java, SQL, JavaFX, SceneBuilder</li>
                      <li><strong>[To-Do Today | Desktop App & Api]</strong> To Do list management with users teams and a entire UI that provides a lot of features(Not finished) | Technologies used: Java, SQL, JavaFX, SceneBuilder, SpringBoot, Maven</li>
                      <li><strong>[Fortune | Mobile App & Api]</strong> A banking app that allows users to operate with different payment methods | Technologies used: Kotlin, Retrofit, Room, Dagger, Hilt, SpringBoot, Jpa, Spring-web</li>
-                     <li><strong>[Readif + API]</strong> A developer-oriented app designed to scan, parse, and visualize PDF documents with precision.(in development)
+                     <li><strong>[Readify + API]</strong> A developer-oriented app designed to scan, parse, and visualize PDF documents with precision.(in development)
                 </ul>
             </li>  
         </ul>
