@@ -52,7 +52,7 @@
                 </ul> 
         <hr>
         <div>
-            <p>🗒️ Visit <a href="http://s4nchzz.com">My Portfolio</a> (Not available)</p>
+            <p>🗒️ Visit <a href="http://s4nchzz.com">My Portfolio</a> (Alfa version)</p>
             <ul>
                 <li>My portfolio is currently under construction, but I'm actively working on exciting projects to showcase my skills and experience. In the meantime, feel free to connect with me through my Discord: <strong>s4nchzz</strong></li>
             </ul>
