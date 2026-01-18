@@ -53,9 +53,6 @@
         <hr>
         <div>
             <p>🗒️ Visit <a href="https://portfolio.s4nchzz.com/">My Portfolio</a></p>
-            <ul>
-                <li>My portfolio is currently under construction, but I'm actively working on exciting projects to showcase my skills and experience. In the meantime, feel free to connect with me through my Discord: <strong>s4nchzz</strong></li>
-            </ul>
         </div>
         <div>
             <p>📌 Current Endeavors: </p>
